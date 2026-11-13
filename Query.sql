@@ -1,1 +1,1 @@
-select * from emprecs where city='Bangalaore';
+select * from emprecs where city='Banglore';
